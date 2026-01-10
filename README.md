@@ -1,0 +1,2 @@
+# newbit
+i am begginner
